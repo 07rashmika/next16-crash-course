@@ -23,6 +23,6 @@ const page = () => {
       </div>
     </section>
   )
-}
+};
 
-export default page
+export default page;
